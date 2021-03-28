@@ -2,6 +2,8 @@
 
 The following information is contained in the Heroes of Pymoil jupyter notebook. The information was determined from the file purchase_data.csv that is contained in the resources directory. 
 
+Observable trends from the data are listed out in the analysis.md file.
+
 ## Player Count
 - The total number of unique players captured in the purchasing data file.
 
