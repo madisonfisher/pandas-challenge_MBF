@@ -28,3 +28,12 @@ The following information is contained in the Heroes of Pymoil jupyter notebook.
 - The average purchase price by age.
 - Total amount purchased by age.
 - Average purchase per unique person by age.
+
+## Top Spenders
+- The top 5 spenders were determined by their total spending amount.
+
+## Most Popular Items
+- The top 5 most popular items were determined by the amount of times purchased.
+
+## Most Profitable Items
+- The top 5 most profitable items were determined by the total revenue brought in for that item.
