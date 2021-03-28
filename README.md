@@ -10,3 +10,21 @@ The following information is contained in the Heroes of Pymoil jupyter notebook.
 - The average price of the items purchased in the game.
 - Total number of purchases made in the game.
 - Total revenue generated from purchases made in the game.
+
+## Gender Demographics
+- The count and percentage of Males, Females, and Other / Non-Disclosed.
+
+## Purchasing Analysis (Gender)
+- The purchase count by gender.
+- The average purchase price by gender.
+- Total amount purchased by gender.
+- Average purchase per unique person by gender.
+
+## Age Demographics
+- The count and percentage of people below 10, then from 10-40 in 5 year increments, and above 40.
+
+## Purchasing Analysis (Age)
+- The purchase count by age.
+- The average purchase price by age.
+- Total amount purchased by age.
+- Average purchase per unique person by age.
